@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(221, 184, 135)
+}
+.card{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 253, 255);
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+    width: 410px;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    box-shadow: 10px 10px 5px rgb(190, 120, 27);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    padding: 20px;
+}
+.descript{
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+img{
+    border-radius: 20px;
+    width: 420px;
+    height: 250px;
+    margin: -5px -5px -0px -5px;
+}
+#dream{
+    background-color: rgb(221, 184, 135);
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+    width: 110px;
+    height: 25px;
+    font-size: 16px;
+    color: rgb(105, 70, 18);
+    text-align: center;
+    padding-top: 10px;
+}
+a{
+    color:rgb(105, 70, 18)
+}
+#city{
+    font-size: 25px;
+}
